@@ -8,6 +8,7 @@
 - **"Desktop-small: 1200px - 1199px**
 - **Tablet: 640px - 1199px**
 - **Mobile: 320px - 639px**
+
 - [DEMO LINK](https://zhyliaieva.github.io/react_phone-catalog/)
 - [Code](https://github.com/zhyliaieva/react-phone-catalog)
 
@@ -25,8 +26,9 @@
 - Hero Section with Background Image
 - Gallery / Product Section
 - Smooth Scrolling Navigation
-
+`
 ## UI/UX:
+`
 - Responsive design (mobile/tablet/desktop)
 - Burger menu on mobile
 - Product sorting
@@ -35,7 +37,7 @@
 - Animations
 `
 ## Link to the Figma design
-### <a hreaf="https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1&p=f&t=o5iOSLsjCw3gEbSB-0"  target="_blank"> Phone Catalog</a>
+**<a hreaf="https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1&p=f&t=o5iOSLsjCw3gEbSB-0"  target="_blank"> Phone Catalog</a>**
 
 ## 🛠 Using technologies
 - `Vite`

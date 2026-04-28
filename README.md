@@ -19,16 +19,15 @@
 - Cart (add/remove products)
 - Favorites (favorites)
 - Product detail page
+
+## UI/UX:
 - Product search/filter
+- Product sorting
 - Burger Menu for Mobile Devices
 - Hero Section with Background Image
 - Gallery / Product Section
 - Smooth Scrolling Navigation
-
-## UI/UX:
-- Responsive design (mobile/tablet/desktop)
 - Burger menu on mobile
-- Product sorting
 - Pagination
 - Swiper
 - Animations

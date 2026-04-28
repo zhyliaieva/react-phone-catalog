@@ -5,7 +5,6 @@
 ## Project overview
 - Fully responsive layout for:
 - **Desktop: 1200px+**
-- **"Desktop-small: 1200px - 1199px**
 - **Tablet: 640px - 1199px**
 - **Mobile: 320px - 639px**
 - [DEMO LINK](https://zhyliaieva.github.io/react_phone-catalog/)

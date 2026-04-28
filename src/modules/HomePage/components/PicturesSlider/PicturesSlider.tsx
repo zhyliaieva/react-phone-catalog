@@ -45,6 +45,7 @@ export const PicturesSlider: React.FC<PicturesSliderProps> = ({ products }) => {
                         title={product.name ?? 'Product Image'}
                         // height={'100%'}
                         className={styles.picturesSlider__productImage}
+                        loading="lazy"
                       />
                     </div>
                   </div>

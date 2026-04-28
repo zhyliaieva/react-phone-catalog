@@ -17,6 +17,7 @@ export const Logo: React.FC<LogoProps> = ({ className, handleMenuClick }) => {
           alt="The Nice Gadgets Logo"
           title="The Nice Gadgets Logo"
           className={`${styles.topBar__logo} ${className ?? ''}`}
+          loading="lazy"
         />
       </picture>
     </Link>

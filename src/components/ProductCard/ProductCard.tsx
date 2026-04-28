@@ -52,6 +52,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({
               src={product.image}
               alt={product.name ?? 'Product Image'}
               className={styles.productCard__productImage}
+              loading="lazy"
             />
           </NavLink>
         </div>

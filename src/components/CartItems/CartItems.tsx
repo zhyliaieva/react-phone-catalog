@@ -33,6 +33,7 @@ export const CartItems: React.FC<CartItemsProps> = ({
               src={product?.image}
               alt={product?.name ?? 'Product Image'}
               className={styles.productCard__productImage}
+              loading="lazy"
             />
           </Link>
         </div>

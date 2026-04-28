@@ -358,6 +358,7 @@ export const ProductDetailsPage = () => {
                       src={mainImage ?? product?.image}
                       alt={product?.name ?? 'Product Image'}
                       className={styles.productDetailsPage__productImage}
+                      loading="lazy"
                     />
                   </div>
                   {Array.isArray(product.images) &&
@@ -380,6 +381,7 @@ export const ProductDetailsPage = () => {
                               <img
                                 src={img}
                                 alt={`Product ${product?.name} image ${i + 1}`}
+                                loading="lazy"
                               />
                             </div>
                           ))}

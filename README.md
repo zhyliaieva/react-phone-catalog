@@ -13,7 +13,6 @@
 - [Code](https://github.com/zhyliaieva/react-phone-catalog)
 
 ## ⚡ Features
-`
 - Working with API (data from file/JSON)
 - State (state management)
 - Routing between pages
@@ -26,18 +25,17 @@
 - Hero Section with Background Image
 - Gallery / Product Section
 - Smooth Scrolling Navigation
-`
+
 ## UI/UX:
-`
 - Responsive design (mobile/tablet/desktop)
 - Burger menu on mobile
 - Product sorting
 - Pagination
 - Swiper
 - Animations
-`
+
 ## Link to the Figma design
-**<a hreaf="https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1&p=f&t=o5iOSLsjCw3gEbSB-0"  target="_blank"> Phone Catalog</a>**
+[Phone Catalog](https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1&p=f&t=o5iOSLsjCw3gEbSB-0){:target="_blank"}
 
 ## 🛠 Using technologies
 - `Vite`

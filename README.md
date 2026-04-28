@@ -6,12 +6,13 @@
 ## Fully responsive layout for
 - **Desktop: 1200px+**
 - **"Desktop-small: 1200px - 1199px**
-- **Tablet: 640px - 1199px""
+- **Tablet: 640px - 1199px**
 - **Mobile: 320px - 639px**
 - [DEMO LINK](https://zhyliaieva.github.io/react_phone-catalog/)
 - [Code](https://github.com/zhyliaieva/react-phone-catalog)
 
 ## ⚡ Features
+```
 - Working with API (data from file/JSON)
 - State (state management)
 - Routing between pages
@@ -32,13 +33,13 @@
 - Pagination
 - Swiper
 - Animations
-
+```
 ## Link to the Figma design
-### [Phone Catalog] (https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1&p=f&t=o5iOSLsjCw3gEbSB-0)
+<h3> [Phone Catalog] (https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1&p=f&t=o5iOSLsjCw3gEbSB-0)</h3>
 
 ## 🛠 Using technologies
 - `Vite`
-- 'React Router`
+- `React Router`
 - ` React + TypeScript`
 - `HTML / CSS`
 - `Sass`

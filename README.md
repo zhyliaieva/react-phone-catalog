@@ -3,7 +3,7 @@
 # ✨ The Phone Catalog "Nice Gadgets Store" is online store with a shopping cart and favorites page according to the design, fully responsive layout React + TypeScript for scalable, typed components, routing between pages
 
 ## Project overview
-Nice Gadgets Store is online store with a shopping cart and favorites page according to the design
+**Nice Gadgets Store** is online store with a shopping cart and favorites page according to the design
 - Fully responsive layout for:
 - **Desktop: 1200px+**
 - **Tablet: 640px - 1199px**

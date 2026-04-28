@@ -34,7 +34,7 @@
 - Animations
 
 ## Link to the Figma design
-- **[Phone Catalog](https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1&p=f&t=o5iOSLsjCw3gEbSB-0)**
+- [Nice Gadgets Store landing](https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1&p=f&t=o5iOSLsjCw3gEbSB-0)
 
 ## 🛠 Using technologies
 - `Vite`

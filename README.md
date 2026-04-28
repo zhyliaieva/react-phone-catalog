@@ -1,9 +1,9 @@
 
 
-# ✨ The Phone Catalog is online store with a shopping cart and favorites page according to the design fully responsive layout React + TypeScript for scalable, typed components, routing between pages
+# ✨ The Phone Catalog is online store with a shopping cart and favorites page according to the design, fully responsive layout React + TypeScript for scalable, typed components, routing between pages
 
 ## Project overview
-- `Fully responsive layout for:`
+## Fully responsive layout for:
 - **Desktop: 1200px+**
 - **"Desktop-small: 1200px - 1199px**
 - **Tablet: 640px - 1199px**
@@ -34,7 +34,7 @@
 - Animations
 
 ## Link to the Figma design
--[Phone Catalog](https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1&p=f&t=o5iOSLsjCw3gEbSB-0){:target="_blank"}
+- [Phone Catalog](https://www.figma.com/design/7JTa0q8n3dTSAyMNaA0u8o/Phone-catalog--V2--Rounded-Style-3?node-id=0-1&p=f&t=o5iOSLsjCw3gEbSB-0){:target="_blank"}
 
 ## 🛠 Using technologies
 - `Vite`
